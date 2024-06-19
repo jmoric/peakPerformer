@@ -1,6 +1,6 @@
-# PeekPerformer
+# PeakPerformer
 
-peekPerformer is a desktop application for cycling training analysis.
+peakPerformer is a desktop application for cycling training analysis.
 
 > Work in progress!
 
